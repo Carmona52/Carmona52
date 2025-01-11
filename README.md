@@ -21,7 +21,7 @@
   - Currently learning PostgreSQL and SQLServer in depth for efficient and scalable database management.
 
 ## 📬 Get in Touch    
-  Connect with me on [Linkedin](www.linkedin.com/in/carmonajesus)
+  Connect with me on [Linkedin](www.linkedin.com/in/carmonajesus) In case of www.linkedin.com/in/carmonajesus
   
 ## My Stats
   ![Carmona52's Stats](https://github-readme-stats.vercel.app/api?username=Carmona52&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)    
