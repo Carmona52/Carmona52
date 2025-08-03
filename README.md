@@ -25,5 +25,3 @@
   
 ## My Stats
   ![Carmona52's Stats](https://github-readme-stats.vercel.app/api?username=Carmona52&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)    
-  
-# Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
