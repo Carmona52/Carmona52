@@ -31,5 +31,7 @@
   Connect with me on [Linkedin](www.linkedin.com/in/carmonajesus) In case of www.linkedin.com/in/carmonajesus
   
 ## My Stats
+<div>
   ![Carmona52's Stats](https://github-readme-stats.vercel.app/api?username=Carmona52&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)    
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carmona52&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+</div>
