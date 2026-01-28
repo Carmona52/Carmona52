@@ -13,17 +13,19 @@
   <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,docker,c,java,spring,astro,bitbucket,cpp,dotnet,mysql,mongodb,nodejs,supabase" />
-    <img src="https://skillicons.dev/icons?i=js,ts,php,cs,html,css,tailwind,react,nextjs,angular,materialui,postman,redux" />
+    <img src="https://skillicons.dev/icons?i=js,ts,php,css,tailwind,react,nextjs,angular,materialui,postman,redux" />
   </a>
 </p>
 
 ## 🌱 Currently Exploring.
     
-  - 🚀 Learning full stack web development.
+  - Full stack web development.
+  - Mobile application development using Expo and React Native
   - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
   - Navigating the world of React Router for fluid page transitions.
   - Styling with Tailwind CSS to create modern, responsive user interfaces.
-  - Currently learning PostgreSQL and SQLServer in depth for efficient and scalable database management.
+  - I am familiar with technologies such as PostgreSQL and SQLServer for database optimization.
+  - I know how to create and manage containers with Docker, and I am also learning about Kubernetes and load balancers.
 
 ## 📬 Get in Touch    
   Connect with me on [Linkedin](www.linkedin.com/in/carmonajesus) In case of www.linkedin.com/in/carmonajesus
