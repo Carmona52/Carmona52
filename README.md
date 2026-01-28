@@ -10,7 +10,12 @@
     
 ## Tech Stack
 
-  [![My Skills](https://skillicons.dev/icons?i=js,ts,php,cs,html,css,tailwind,react,nextjs,angular,materialui)](https://skillicons.dev)
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker,c,java,reactnative,expo" />
+    <img src="https://skillicons.dev/icons?i=js,ts,php,cs,html,css,tailwind,react,nextjs,angular,materialui" />
+  </a>
+</p>
 
 ## 🌱 Currently Exploring.
     
