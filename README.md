@@ -32,6 +32,9 @@
   
 ## My Stats
 <div>
-  ![Carmona52's Stats](https://github-readme-stats.vercel.app/api?username=Carmona52&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)    
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carmona52&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api?username=Carmona52&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="Carmona52's Stats" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carmona52&layout=donut" alt="Top Langs" />
+  </a>
 </div>
+
