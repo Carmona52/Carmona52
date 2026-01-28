@@ -12,8 +12,8 @@
 
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,c,java,reactnative,expo" />
-    <img src="https://skillicons.dev/icons?i=js,ts,php,cs,html,css,tailwind,react,nextjs,angular,materialui" />
+    <img src="https://skillicons.dev/icons?i=git,docker,c,java,spring,astro,bitbucket,cpp,dotnet,mysql,mongodb,nodejs,supabase" />
+    <img src="https://skillicons.dev/icons?i=js,ts,php,cs,html,css,tailwind,react,nextjs,angular,materialui,postman,redux" />
   </a>
 </p>
 
